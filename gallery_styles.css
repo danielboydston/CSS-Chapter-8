@@ -23,13 +23,13 @@ p.caption {
 	margin: 0;
 }
 
-
 h1 {
 	font: normal 2.4em Verdana, Arial, Helvetica, sans-serif;
 	margin: 0;
 	border-bottom: 1px dashed #999;
 	padding: 5px 0 5px 8px;
-	color: #14556b;
+	color: #fff;
+	background-color: #005500
 }
 p {
 	font: 1.6em/160% Georgia, "Times New Roman", Times, serif;
